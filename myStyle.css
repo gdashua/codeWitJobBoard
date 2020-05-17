@@ -198,5 +198,14 @@ section .leftbox{
     padding: 50px;
     box-sizing: border-box;
 }
+section .events{
+    position: relative;
+    width: 100vw;
+    height: auto;
+    background: rgba(0,0, 0, .5);
+    float: right;
+    box-sizing: border-box;
+}
+
      
 }
