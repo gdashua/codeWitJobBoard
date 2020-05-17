@@ -178,3 +178,17 @@ section .events ul li .details a:hover{
   .footer{
       text-align: center;
   }
+@media (max-width: 768px){
+    .leftbox{
+        grid-area: leftbox;
+    }
+    .events{
+        grid-area: events;
+    }
+    section{
+        display: grid;
+        grid-template: 
+        'leftbox'
+        'events';
+    }
+}
