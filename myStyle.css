@@ -194,7 +194,6 @@ section .events ul li .details a:hover{
 section .leftbox{
     width: 100vw;
     height: auto;
-    float: left;
     padding: 50px;
     box-sizing: border-box;
     margin-bottom:10℅
