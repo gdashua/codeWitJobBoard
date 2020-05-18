@@ -209,7 +209,7 @@ section .events{
 }
 Html, body{
 Width:100vw;
-Height:100%;
+Height:auto;
 } 
      
 }
