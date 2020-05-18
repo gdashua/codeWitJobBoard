@@ -207,6 +207,9 @@ section .events{
     box-sizing: border-box;
     clear-bottom
 }
-
+Html, body{
+Width:100vw;
+Height:100%;
+} 
      
 }
