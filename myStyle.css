@@ -197,7 +197,7 @@ section .leftbox{
     float: left;
     padding: 50px;
     box-sizing: border-box;
-    Clear: bottom
+    margin-bottom:10℅
 }
 section .events{
     position: relative;
