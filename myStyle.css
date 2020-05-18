@@ -222,4 +222,7 @@ overflow:auto;
     float: left;
     Overflow:auto;
 }
+*{
+   Overflow: auto;
+}
 }
