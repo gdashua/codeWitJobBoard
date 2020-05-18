@@ -193,7 +193,7 @@ section .events ul li .details a:hover{
     }
 section .leftbox{
     width: 100vw;
-    height: 50%;
+    height: auto;
     float: left;
     padding: 50px;
     box-sizing: border-box;
@@ -205,7 +205,7 @@ section .events{
     height: auto;
     background: rgba(0,0, 0, .5);
     box-sizing: border-box;
-    clear-bottom
+    clear:bottom;
 }
 Html, body{
 Width:100vw;
