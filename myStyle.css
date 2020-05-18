@@ -212,5 +212,14 @@ Width:100vw;
 Height:auto;
 overflow:auto;
 } 
-     
+     section .events ul li .details{
+    padding: 10px;
+    padding-top: 1px;
+    background: #fff;
+    box-sizing: border-box;
+    width: 70%;
+    height: 100%;
+    float: left;
+    Overflow:auto;
+}
 }
