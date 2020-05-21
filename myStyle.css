@@ -210,9 +210,9 @@ section .events{
     box-sizing: border-box;
     clear:bottom;
 }
-Html, body{
-Width:100vw;
-Height:auto;
+html, body{
+width:100vw;
+hejmight:auto;
 overflow:auto;
 } 
      section .events ul li .details{
