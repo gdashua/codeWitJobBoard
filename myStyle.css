@@ -210,7 +210,7 @@ section .events{
 }
 html, body{
 width:100vw;
-hejmight:auto;
+height:auto;
 overflow:auto;
 } 
      section .events ul li .details{
