@@ -229,4 +229,7 @@ overflow:auto;
 section .leftbox .content{
     padding: 10px;
 }
+section .events ul li {
+    height: auto;
+}
 }
