@@ -15,7 +15,6 @@ section{
 section .leftbox{
     width: 50%;
     height: auto;
-    float: left;
     padding: 50px;
     box-sizing: border-box;
 }
@@ -44,7 +43,6 @@ section .events{
     width: 50%;
     height: auto;
     background: rgba(0,0, 0, .5);
-    float: right;
     box-sizing: border-box;
 }
 
