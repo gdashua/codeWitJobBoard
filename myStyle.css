@@ -42,7 +42,7 @@ section .leftbox .content p{
 section .events{
     position: relative;
     width: 50%;
-    height: 100%;
+    height: auto;
     background: rgba(0,0, 0, .5);
     float: right;
     box-sizing: border-box;
