@@ -13,7 +13,7 @@ section{
 
 section .leftbox{
     width: 50%;
-    height: 100%;
+    height: auto;
     float: left;
     padding: 50px;
     box-sizing: border-box;
