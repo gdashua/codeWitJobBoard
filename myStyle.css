@@ -225,4 +225,7 @@ overflow:auto;
 *{
    Overflow: auto;
 }
+section .leftbox .content{
+    padding: 10px;
+}
 }
