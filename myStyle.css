@@ -221,8 +221,8 @@ overflow:auto;
     height: auto;
     float: left;
 }
-*
-   Overflow: auto;
+*{
+   height: auto;
 }
 section .leftbox .content{
     padding: 10px;
