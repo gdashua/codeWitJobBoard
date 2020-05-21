@@ -180,7 +180,7 @@ section .events ul li .details a:hover{
       margin:0;
   }
 @media (max-width: 768px){
-    .leftbox{
+   /* .leftbox{
         grid-area: leftbox;
     }
     .events{
@@ -192,7 +192,7 @@ section .events ul li .details a:hover{
         'leftbox'
         'events';
         overflow:auto;
-    }
+    }*/
 section .leftbox{
     width: 100vw;
     height: auto;
