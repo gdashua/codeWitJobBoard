@@ -177,6 +177,8 @@ section .events ul li .details a:hover{
   }
   .footer{
       text-align: center;
+      padding:0;
+      margin:0;
   }
 @media (max-width: 768px){
     .leftbox{
