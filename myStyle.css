@@ -141,11 +141,11 @@ section .events ul li .details a:hover{
     border-color: #e91e63;
 }
 
-.grid-container  {
+/*.grid-container  {
     grid-template: 
       'header header header header header header' 
 
-}
+}*/
 
 .nav{
     list-style: none;
