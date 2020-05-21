@@ -95,7 +95,7 @@ section .events ul li .microsoft{
     background-size: cover;
 }*/
 
-section .events ul li:hover .time h2{
+/*section .events ul li:hover .time h2{
     position: absolute;
     margin: 0;
     padding: 0;
@@ -105,7 +105,7 @@ section .events ul li:hover .time h2{
     color: #fff;
     font-size: 60px;
     line-height: 40px;
-}
+}*/
 section .events ul li .time h2 span{
     font-size: 30px;
 }
