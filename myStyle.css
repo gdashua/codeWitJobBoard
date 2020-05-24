@@ -209,9 +209,8 @@ section .events{
     clear:bottom;
 }
 html, body{
-width:100vw;
+width:auto;
 height:auto;
-overflow:auto;
 } 
      section .events ul li .details{
     padding: 10px;
